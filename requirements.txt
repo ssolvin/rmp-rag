@@ -1,0 +1,7 @@
+jupyter_client==8.9.1
+jupyter_core==5.9.1
+openai==2.44.0
+pinecone==9.1.0
+pip-chill==1.0.5
+pydantic_core==2.46.4
+python-dotenv==1.2.2

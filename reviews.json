@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Alan Turing",
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Great professor overall. Lectures are solid and well-paced, though the exams can be a bit challenging. Just make sure to study."
+    },
+    {
+      "professor": "Dr. Ada Lovelace",
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Very knowledgeable and approachable during office hours. Homework load is reasonable but don't fall behind."
+    },
+    {
+      "professor": "Dr. Grace Hopper",
+      "subject": "Data Structures",
+      "stars": 2,
+      "review": "Hard to follow during lectures. They tend to ramble and go off-topic frequently. Exams are much harder than the practice problems."
+    },
+    {
+      "professor": "Prof. Richard Feynman",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Great professor overall. Lectures are solid and well-paced, though the exams can be a bit challenging. Just make sure to study."
+    },
+    {
+      "professor": "Dr. Marie Curie",
+      "subject": "Chemistry",
+      "stars": 4,
+      "review": "Great professor overall. Lectures are solid and well-paced, though the exams can be a bit challenging. Just make sure to study."
+    },
+    {
+      "professor": "Prof. Albert Einstein",
+      "subject": "Physics",
+      "stars": 0,
+      "review": "Absolutely a nightmare. Does not show up for office hours, exams cover material never discussed, and treats students poorly."
+    },
+    {
+      "professor": "Dr. Rosalind Franklin",
+      "subject": "Biology",
+      "stars": 2,
+      "review": "Hard to follow during lectures. They tend to ramble and go off-topic frequently. Exams are much harder than the practice problems."
+    },
+    {
+      "professor": "Prof. Isaac Newton",
+      "subject": "Calculus",
+      "stars": 4,
+      "review": "Enjoyed the class a lot. The professor gives great feedback on assignments, though the quizzes are quite frequent."
+    },
+    {
+      "professor": "Dr. Jane Goodall",
+      "subject": "Anthropology",
+      "stars": 2,
+      "review": "Very dry lectures and not very accessible outside of class. You are basically teaching yourself the material."
+    },
+    {
+      "professor": "Prof. Noam Chomsky",
+      "subject": "Linguistics",
+      "stars": 5,
+      "review": "Absolutely brilliant professor! Explains complex concepts with total clarity. Inspires everyone in the room."
+    },
+    {
+      "professor": "Dr. Carl Sagan",
+      "subject": "Astronomy",
+      "stars": 4,
+      "review": "Very knowledgeable and approachable during office hours. Homework load is reasonable but don't fall behind."
+    },
+    {
+      "professor": "Prof. Toni Morrison",
+      "subject": "Literature",
+      "stars": 4,
+      "review": "Solid choice for this subject. Explains things well, though sometimes slides can be a bit text-heavy. Fair grader."
+    },
+    {
+      "professor": "Dr. Sigmund Freud",
+      "subject": "Psychology",
+      "stars": 2,
+      "review": "Grades incredibly harshly and doesn't provide clear feedback. Avoid if you want to protect your GPA."
+    },
+    {
+      "professor": "Prof. Adam Smith",
+      "subject": "Economics",
+      "stars": 5,
+      "review": "Incredibly passionate about the subject. If you participate and do the readings, you will learn a ton and get an A."
+    },
+    {
+      "professor": "Dr. Katherine Johnson",
+      "subject": "Mathematics",
+      "stars": 1,
+      "review": "Terrible experience. The workload is unmanageable and the professor seems completely uninterested in helping students succeed."
+    },
+    {
+      "professor": "Prof. Margaret Hamilton",
+      "subject": "Software Engineering",
+      "stars": 1,
+      "review": "Completely unorganized and unfair grader. The class average on exams was a failing grade and no curve was provided."
+    },
+    {
+      "professor": "Dr. Linus Pauling",
+      "subject": "Biochemistry",
+      "stars": 4,
+      "review": "Great professor overall. Lectures are solid and well-paced, though the exams can be a bit challenging. Just make sure to study."
+    },
+    {
+      "professor": "Prof. Rachel Carson",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Great professor overall. Lectures are solid and well-paced, though the exams can be a bit challenging. Just make sure to study."
+    },
+    {
+      "professor": "Dr. W.E.B. Du Bois",
+      "subject": "Sociology",
+      "stars": 5,
+      "review": "Amazing lecturer! They make even the most boring topics interesting. Highly recommend taking any class with them."
+    },
+    {
+      "professor": "Prof. Hypatia",
+      "subject": "Philosophy",
+      "stars": 1,
+      "review": "Completely unorganized and unfair grader. The class average on exams was a failing grade and no curve was provided."
+    }
+  ]
+}
